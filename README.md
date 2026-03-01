@@ -461,6 +461,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Meta Ads Remote MCP](https://github.com/pipeboard-co/meta-ads-mcp)** - Remote MCP server to interact with Meta Ads API - access, analyze, and manage Facebook, Instagram, and other Meta platforms advertising campaigns.
 - **[Minima](https://github.com/dmayboroda/minima)** - Local RAG (on-premises) with MCP server.
 - **[MintMCP](https://github.com/mintmcp/servers)** - MCP servers for Google Calendar, Gmail, Outlook Calendar, and Outlook.
+- **[MolTrust](https://github.com/MoltyCel/moltrust-mcp-server)** - Decentralized agent identity and reputation toolkit — DID creation, trust scoring, credential verification, and ERC-8004 on-chain identity.
 - **[Mongo](https://github.com/QuantGeekDev/mongo-mcp)** - A Model Context Protocol (MCP) server that enables LLMs to interact directly with MongoDB databases
 - **[MongoDB](https://github.com/kiliczsh/mcp-mongo-server)** - A Model Context Protocol Server for MongoDB
 - **[MongoDB Lens](https://github.com/furey/mongodb-lens)** - Full Featured MCP Server for MongoDB Database.
